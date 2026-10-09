@@ -1,0 +1,315 @@
+{
+  "minecraft_root": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft",
+  "version": "26.3",
+  "jar": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar",
+  "jar_sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+  "asset_index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+  "asset_index_sha1": "abfaa525f923f807df8b4e4d29c1b5e3a104adbe",
+  "assets": [
+    {
+      "destination": "assets/textures/dragon.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon.png",
+      "sha1": "1f6737662b84abbceab611bc31c23e42be5ed30b",
+      "size": 4534
+    },
+    {
+      "destination": "assets/runtime/dragon.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon.png",
+      "sha1": "7647a2b3e359c4cf79284413ef5ddc849992c80a",
+      "size": 23606,
+      "conversion": "RGBA PNG; 4x nearest-neighbor upscale"
+    },
+    {
+      "destination": "assets/runtime/dragon_hurt.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon.png",
+      "sha1": "fd756ed869dd7b3f2ca052c91654f7e2ec6075b0",
+      "size": 22209,
+      "conversion": "RGBA PNG; 4x nearest-neighbor upscale; red hurt overlay"
+    },
+    {
+      "destination": "assets/textures/dragon_eyes.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_eyes.png",
+      "sha1": "1a35bea739e80c9266756575cf879553f9d648ef",
+      "size": 180
+    },
+    {
+      "destination": "assets/runtime/dragon_eyes.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_eyes.png",
+      "sha1": "a4c54f3d205cf60651a632c6053376b65f28403a",
+      "size": 4532,
+      "conversion": "RGBA PNG; 4x nearest-neighbor upscale"
+    },
+    {
+      "destination": "assets/textures/dragon_exploding.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_exploding.png",
+      "sha1": "67d024ff877798bd7088ace59d17ed718fde88d4",
+      "size": 24505
+    },
+    {
+      "destination": "assets/runtime/dragon_exploding.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_exploding.png",
+      "sha1": "26742c3bfce9d7e277d37f86fa887397b9f4e7a7",
+      "size": 53068,
+      "conversion": "RGBA PNG; 4x nearest-neighbor upscale"
+    },
+    {
+      "destination": "assets/textures/dragon_fireball.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_fireball.png",
+      "sha1": "64316d3e866679e5dc2de75d2c200c4a2bda2db9",
+      "size": 202
+    },
+    {
+      "destination": "assets/runtime/dragon_fireball.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/enderdragon/dragon_fireball.png",
+      "sha1": "1b3ed93fcb7ecd2c4b17f4c0bce1e15465307414",
+      "size": 590,
+      "conversion": "RGBA PNG; 4x nearest-neighbor upscale"
+    },
+    {
+      "destination": "assets/reference/EnderDragonModel.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/dragon/EnderDragonModel.class",
+      "sha1": "ecb7e9b9a8f71f7f4a2b670b0cf756926180203e",
+      "size": 10232
+    },
+    {
+      "destination": "assets/reference/EnderDragonModel.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/dragon/EnderDragonModel.class",
+      "sha1": "3d9c1170b7c4461d366a454a6bbf491cd97b0ff5",
+      "size": 28735,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/model.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/dragon/EnderDragonModel.class",
+      "sha1": "d5b68d0e98caeacce65a39bf87df1657244c4c93",
+      "size": 33128,
+      "conversion": "Declarative createBodyLayer builder evaluated without executing Java"
+    },
+    {
+      "destination": "shared/model.lua",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/dragon/EnderDragonModel.class",
+      "sha1": "c92053cd8b75d55df241f2ad2ba9b8b3ff4f7a88",
+      "size": 7506,
+      "conversion": "Exact builder geometry as a Lua table; procedural poses supplied by client/renderer.lua"
+    },
+    {
+      "destination": "assets/reference/EnderDragonRenderer.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/EnderDragonRenderer.class",
+      "sha1": "3b6c65af468f7587ce084dd340d76811a21d8b3f",
+      "size": 15548
+    },
+    {
+      "destination": "assets/reference/EnderDragonRenderer.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/EnderDragonRenderer.class",
+      "sha1": "f8b17df55068ffae601f7c590f7d4b0c16681b01",
+      "size": 46078,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "462436804d40ffc0b238c1515edfebb013cf1980",
+      "size": 5007
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "2026856a4d949d9b6d183a9e0274f6656f555a0f",
+      "size": 11481,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/CubeListBuilder.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/builders/CubeListBuilder.class",
+      "sha1": "8addeae6b356f09d9e5119c6ddbab7117c0b9c37",
+      "size": 5522
+    },
+    {
+      "destination": "assets/reference/CubeListBuilder.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/builders/CubeListBuilder.class",
+      "sha1": "9e7406fff038176d19fc4231e9a9b760e2f82903",
+      "size": 10432,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/DragonFireball.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/projectile/hurtingprojectile/DragonFireball.class",
+      "sha1": "6679f3c77d6c3aa3136ca69b22739eeb9dc1b6d7",
+      "size": 5379
+    },
+    {
+      "destination": "assets/reference/DragonFireball.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/projectile/hurtingprojectile/DragonFireball.class",
+      "sha1": "16dba996b15741f2f85be2b31eb333e7442252df",
+      "size": 15053,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/DragonStrafePlayerPhase.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/boss/enderdragon/phases/DragonStrafePlayerPhase.class",
+      "sha1": "232e672b31d0763740fdb4630b754f281fe11322",
+      "size": 7890
+    },
+    {
+      "destination": "assets/reference/DragonStrafePlayerPhase.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/boss/enderdragon/phases/DragonStrafePlayerPhase.class",
+      "sha1": "a9b086dfc1e902de65c98acf1b45fc137402d223",
+      "size": 21511,
+      "conversion": "Resolved constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/sound_events.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\79\\7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "sha1": "85ae608100598d49959f76a887c9dc3fcc89cdf3",
+      "size": 1312,
+      "source_sha1": "7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "logical_path": "minecraft/sounds.json",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "Only Ender Dragon events extracted"
+    },
+    {
+      "destination": "assets/sounds/end.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\76\\76dd4983249264ab1f4779145118bb162b0d884a",
+      "sha1": "76dd4983249264ab1f4779145118bb162b0d884a",
+      "size": 263913,
+      "logical_path": "minecraft/sounds/mob/enderdragon/end.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/growl1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\b5\\b5f9d965c227474231582b52f14f8167b97bf476",
+      "sha1": "b5f9d965c227474231582b52f14f8167b97bf476",
+      "size": 29909,
+      "logical_path": "minecraft/sounds/mob/enderdragon/growl1.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/growl2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\b8\\b814e7cbcdd572ed7f926a947250d009f206c07b",
+      "sha1": "b814e7cbcdd572ed7f926a947250d009f206c07b",
+      "size": 30591,
+      "logical_path": "minecraft/sounds/mob/enderdragon/growl2.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/growl3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\37\\37e634797f199982107aa7d296a0f14d69135227",
+      "sha1": "37e634797f199982107aa7d296a0f14d69135227",
+      "size": 32839,
+      "logical_path": "minecraft/sounds/mob/enderdragon/growl3.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/growl4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\c2\\c263ae99db287bd803591b0b6cd7865435e6c54a",
+      "sha1": "c263ae99db287bd803591b0b6cd7865435e6c54a",
+      "size": 28533,
+      "logical_path": "minecraft/sounds/mob/enderdragon/growl4.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/hit1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\59\\59cc1d9f09157d334c52db5b79da04f8d56c11bf",
+      "sha1": "59cc1d9f09157d334c52db5b79da04f8d56c11bf",
+      "size": 12273,
+      "logical_path": "minecraft/sounds/mob/enderdragon/hit1.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/hit2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\19\\1933ea18af228a0d39e26c554adb396acdaee05b",
+      "sha1": "1933ea18af228a0d39e26c554adb396acdaee05b",
+      "size": 11606,
+      "logical_path": "minecraft/sounds/mob/enderdragon/hit2.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/hit3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\46\\4634e0b38a0062a9e52a6079773bf252fb421761",
+      "sha1": "4634e0b38a0062a9e52a6079773bf252fb421761",
+      "size": 11834,
+      "logical_path": "minecraft/sounds/mob/enderdragon/hit3.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/hit4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\d3\\d3df4915f7e23b900d472dba0468df0065ebc7ae",
+      "sha1": "d3df4915f7e23b900d472dba0468df0065ebc7ae",
+      "size": 11586,
+      "logical_path": "minecraft/sounds/mob/enderdragon/hit4.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\b2\\b2a6162b783a62cffabc2bd58e79e383b5c70a8d",
+      "sha1": "b2a6162b783a62cffabc2bd58e79e383b5c70a8d",
+      "size": 11312,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings1.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\2f\\2f25e83bbfac230b610691e174dc7440101ed279",
+      "sha1": "2f25e83bbfac230b610691e174dc7440101ed279",
+      "size": 11500,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings2.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\e4\\e4741020ec40e539b87e1339570e6453d3812e1e",
+      "sha1": "e4741020ec40e539b87e1339570e6453d3812e1e",
+      "size": 11103,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings3.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\8b\\8bcda486ff6fdb2c2c4532da72e6d71536779853",
+      "sha1": "8bcda486ff6fdb2c2c4532da72e6d71536779853",
+      "size": 12572,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings4.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings5.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\45\\4518fdf76b94647009cc6e2463e12743c44c3118",
+      "sha1": "4518fdf76b94647009cc6e2463e12743c44c3118",
+      "size": 12372,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings5.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/wings6.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\7b\\7bd37531acf96c978dc484e84dbdfc5bd11c05c1",
+      "sha1": "7bd37531acf96c978dc484e84dbdfc5bd11c05c1",
+      "size": 12016,
+      "logical_path": "minecraft/sounds/mob/enderdragon/wings6.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/fireball4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\e2\\e2aae5ec9916c6c4ae328520f4d72a50afff5aed",
+      "sha1": "e2aae5ec9916c6c4ae328520f4d72a50afff5aed",
+      "size": 9969,
+      "logical_path": "minecraft/sounds/mob/ghast/fireball4.ogg",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "conversion": "None: original OGG Vorbis"
+    }
+  ]
+}

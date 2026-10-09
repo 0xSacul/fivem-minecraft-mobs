@@ -1,0 +1,198 @@
+{
+  "constants": {
+    "1": "net/minecraft/world/level/levelgen/RandomSupport generateUniqueSeed ()J",
+    "2": "net/minecraft/world/level/levelgen/RandomSupport",
+    "3": "generateUniqueSeed ()J",
+    "4": "net/minecraft/world/level/levelgen/RandomSupport",
+    "5": "generateUniqueSeed",
+    "6": "()J",
+    "7": "net/minecraft/util/RandomSource create (J)Lnet/minecraft/util/RandomSource;",
+    "8": "net/minecraft/util/RandomSource",
+    "9": "create (J)Lnet/minecraft/util/RandomSource;",
+    "10": "net/minecraft/util/RandomSource",
+    "11": "create",
+    "12": "(J)Lnet/minecraft/util/RandomSource;",
+    "13": "net/minecraft/world/level/levelgen/ThreadSafeLegacyRandomSource",
+    "14": "net/minecraft/world/level/levelgen/ThreadSafeLegacyRandomSource",
+    "15": "net/minecraft/world/level/levelgen/ThreadSafeLegacyRandomSource <init> (J)V",
+    "16": "<init> (J)V",
+    "17": "<init>",
+    "18": "(J)V",
+    "19": "net/minecraft/world/level/levelgen/LegacyRandomSource",
+    "20": "net/minecraft/world/level/levelgen/LegacyRandomSource",
+    "21": "net/minecraft/world/level/levelgen/LegacyRandomSource <init> (J)V",
+    "22": "net/minecraft/world/level/levelgen/SingleThreadedRandomSource",
+    "23": "net/minecraft/world/level/levelgen/SingleThreadedRandomSource",
+    "24": "io/netty/util/internal/ThreadLocalRandom current ()Lio/netty/util/internal/ThreadLocalRandom;",
+    "25": "io/netty/util/internal/ThreadLocalRandom",
+    "26": "current ()Lio/netty/util/internal/ThreadLocalRandom;",
+    "27": "io/netty/util/internal/ThreadLocalRandom",
+    "28": "current",
+    "29": "()Lio/netty/util/internal/ThreadLocalRandom;",
+    "30": "io/netty/util/internal/ThreadLocalRandom nextLong ()J",
+    "31": "nextLong ()J",
+    "32": "nextLong",
+    "33": "net/minecraft/world/level/levelgen/SingleThreadedRandomSource <init> (J)V",
+    "34": "net/minecraft/util/RandomSource nextInt (I)I",
+    "35": "nextInt (I)I",
+    "36": "nextInt",
+    "37": "(I)I",
+    "38": "net/minecraft/util/RandomSource nextDouble ()D",
+    "39": "nextDouble ()D",
+    "40": "nextDouble",
+    "41": "()D",
+    "42": "net/minecraft/util/RandomSource nextFloat ()F",
+    "43": "nextFloat ()F",
+    "44": "nextFloat",
+    "45": "()F",
+    "46": "net/minecraft/util/RandomSource nextInt ()I",
+    "47": "nextInt ()I",
+    "48": "()I",
+    "49": "java/lang/IllegalArgumentException",
+    "50": "java/lang/IllegalArgumentException",
+    "51": "bound - origin is non positive",
+    "52": "bound - origin is non positive",
+    "53": "java/lang/IllegalArgumentException <init> (Ljava/lang/String;)V",
+    "54": "<init> (Ljava/lang/String;)V",
+    "55": "(Ljava/lang/String;)V",
+    "56": "java/lang/Object",
+    "57": "java/lang/Object",
+    "58": "GAUSSIAN_SPREAD_FACTOR",
+    "59": "D",
+    "60": "ConstantValue",
+    "61": 2.297,
+    "63": "Deprecated",
+    "64": "RuntimeVisibleAnnotations",
+    "65": "Ljava/lang/Deprecated;",
+    "66": "()Lnet/minecraft/util/RandomSource;",
+    "67": "Code",
+    "68": "LineNumberTable",
+    "69": "createThreadSafe",
+    "70": "LocalVariableTable",
+    "71": "seed",
+    "72": "J",
+    "73": "MethodParameters",
+    "74": "createThreadLocalInstance",
+    "75": "fork",
+    "76": "forkPositional",
+    "77": "()Lnet/minecraft/world/level/levelgen/PositionalRandomFactory;",
+    "78": "setSeed",
+    "79": "bound",
+    "80": "nextIntBetweenInclusive",
+    "81": "(II)I",
+    "82": "this",
+    "83": "Lnet/minecraft/util/RandomSource;",
+    "84": "min",
+    "85": "I",
+    "86": "maxInclusive",
+    "87": "nextBoolean",
+    "88": "()Z",
+    "89": "nextGaussian",
+    "90": "triangle",
+    "91": "(DD)D",
+    "92": "mean",
+    "93": "spread",
+    "94": "(FF)F",
+    "95": "F",
+    "96": "consumeCount",
+    "97": "(I)V",
+    "98": "i",
+    "99": "rounds",
+    "100": "StackMapTable",
+    "101": "origin",
+    "102": "SourceFile",
+    "103": "RandomSource.java"
+  },
+  "methods": [
+    {
+      "name": "create",
+      "descriptor": "()Lnet/minecraft/util/RandomSource;",
+      "bytecode_hex": "b8 00 01 b8 00 07 b0"
+    },
+    {
+      "name": "createThreadSafe",
+      "descriptor": "()Lnet/minecraft/util/RandomSource;",
+      "bytecode_hex": "bb 00 0d 59 b8 00 01 b7 00 0f b0"
+    },
+    {
+      "name": "create",
+      "descriptor": "(J)Lnet/minecraft/util/RandomSource;",
+      "bytecode_hex": "bb 00 13 59 1e b7 00 15 b0"
+    },
+    {
+      "name": "createThreadLocalInstance",
+      "descriptor": "()Lnet/minecraft/util/RandomSource;",
+      "bytecode_hex": "bb 00 16 59 b8 00 18 b6 00 1e b7 00 21 b0"
+    },
+    {
+      "name": "createThreadLocalInstance",
+      "descriptor": "(J)Lnet/minecraft/util/RandomSource;",
+      "bytecode_hex": "bb 00 16 59 1e b7 00 21 b0"
+    },
+    {
+      "name": "fork",
+      "descriptor": "()Lnet/minecraft/util/RandomSource;"
+    },
+    {
+      "name": "forkPositional",
+      "descriptor": "()Lnet/minecraft/world/level/levelgen/PositionalRandomFactory;"
+    },
+    {
+      "name": "setSeed",
+      "descriptor": "(J)V"
+    },
+    {
+      "name": "nextInt",
+      "descriptor": "()I"
+    },
+    {
+      "name": "nextInt",
+      "descriptor": "(I)I"
+    },
+    {
+      "name": "nextIntBetweenInclusive",
+      "descriptor": "(II)I",
+      "bytecode_hex": "2a 1c 1b 64 04 60 b9 00 22 02 00 1b 60 ac"
+    },
+    {
+      "name": "nextLong",
+      "descriptor": "()J"
+    },
+    {
+      "name": "nextBoolean",
+      "descriptor": "()Z"
+    },
+    {
+      "name": "nextFloat",
+      "descriptor": "()F"
+    },
+    {
+      "name": "nextDouble",
+      "descriptor": "()D"
+    },
+    {
+      "name": "nextGaussian",
+      "descriptor": "()D"
+    },
+    {
+      "name": "triangle",
+      "descriptor": "(DD)D",
+      "bytecode_hex": "27 29 2a b9 00 26 01 00 2a b9 00 26 01 00 67 6b 63 af"
+    },
+    {
+      "name": "triangle",
+      "descriptor": "(FF)F",
+      "bytecode_hex": "23 24 2a b9 00 2a 01 00 2a b9 00 2a 01 00 66 6a 62 ae"
+    },
+    {
+      "name": "consumeCount",
+      "descriptor": "(I)V",
+      "bytecode_hex": "03 3d 1c 1b a2 00 10 2a b9 00 2e 01 00 57 84 02 01 a7 ff f1 b1"
+    },
+    {
+      "name": "nextInt",
+      "descriptor": "(II)I",
+      "bytecode_hex": "1b 1c a1 00 0d bb 00 31 59 12 33 b7 00 35 bf 1b 2a 1c 1b 64 b9 00 22 02 00 60 ac"
+    }
+  ]
+}

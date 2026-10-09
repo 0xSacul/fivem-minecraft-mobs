@@ -1,0 +1,317 @@
+{
+  "minecraft_root": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft",
+  "version": "26.3",
+  "jar": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar",
+  "jar_sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+  "asset_index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+  "asset_index_sha1": "abfaa525f923f807df8b4e4d29c1b5e3a104adbe",
+  "assets": [
+    {
+      "destination": "assets/textures/ghast.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/ghast/ghast.png",
+      "sha1": "279aeb0398a346858da65937e9a0c62c5e47b80d",
+      "size": 1045
+    },
+    {
+      "destination": "assets/runtime/ghast.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/ghast/ghast.png",
+      "sha1": "cbe5941120b121df11f08ebd72d3c770bccbfddc",
+      "size": 15222,
+      "conversion": "RGBA PNG, 16x nearest-neighbour upscale; no artwork changes"
+    },
+    {
+      "destination": "assets/textures/ghast_shooting.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/ghast/ghast_shooting.png",
+      "sha1": "e4d7b8c869595ec78a5b366e1c480fab3c4e8546",
+      "size": 1188
+    },
+    {
+      "destination": "assets/runtime/ghast_shooting.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/ghast/ghast_shooting.png",
+      "sha1": "0097802134306cda90dde3dcf7c4f2060fc768ba",
+      "size": 15645,
+      "conversion": "RGBA PNG, 16x nearest-neighbour upscale; no artwork changes"
+    },
+    {
+      "destination": "assets/textures/fire_charge.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/item/fire_charge.png",
+      "sha1": "d9feb507575208ee52db42b763b53544346ba97e",
+      "size": 205
+    },
+    {
+      "destination": "assets/runtime/fire_charge.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/item/fire_charge.png",
+      "sha1": "0679d79ccdc6c9b731570dca359ad61049f08428",
+      "size": 1304,
+      "conversion": "RGBA PNG, 16x nearest-neighbour upscale; no artwork changes"
+    },
+    {
+      "destination": "assets/reference/GhastModel.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/ghast/GhastModel.class",
+      "sha1": "41ffc275eed59f7f3fbf0e31e088cc2cab9e0bd4",
+      "size": 4234
+    },
+    {
+      "destination": "assets/reference/GhastModel.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/ghast/GhastModel.class",
+      "sha1": "e01cf8ce224b2764053c71c49e8a746b75466fb6",
+      "size": 11190,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/Ghast$GhastShootFireballGoal.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/monster/Ghast$GhastShootFireballGoal.class",
+      "sha1": "33777e8818b7c6ad2c574083b969ebf8980c8637",
+      "size": 3239
+    },
+    {
+      "destination": "assets/reference/Ghast$GhastShootFireballGoal.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/monster/Ghast$GhastShootFireballGoal.class",
+      "sha1": "b451856191543716edc1e433bb931c2cb4fde3d1",
+      "size": 8497,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/GhastRenderer.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/GhastRenderer.class",
+      "sha1": "626704eb2ed154562f96a80320ea0724c31781a4",
+      "size": 3600
+    },
+    {
+      "destination": "assets/reference/GhastRenderer.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/GhastRenderer.class",
+      "sha1": "0eb258a13421d37b1f9fce845f57f5deee3fd31e",
+      "size": 9036,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "462436804d40ffc0b238c1515edfebb013cf1980",
+      "size": 5007
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "2026856a4d949d9b6d183a9e0274f6656f555a0f",
+      "size": 11481,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/ThrownItemRenderer.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/ThrownItemRenderer.class",
+      "sha1": "cb317b1675e59903f157f08559d195cee1e44773",
+      "size": 5325
+    },
+    {
+      "destination": "assets/reference/ThrownItemRenderer.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/ThrownItemRenderer.class",
+      "sha1": "e40278d5419a2f4c653c5d7bb6be3f29bbb93bef",
+      "size": 13727,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/Fireball.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/projectile/hurtingprojectile/Fireball.class",
+      "sha1": "479440a02dbe95d19254bd7bd7faf491a8bfaafa",
+      "size": 6760
+    },
+    {
+      "destination": "assets/reference/Fireball.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/projectile/hurtingprojectile/Fireball.class",
+      "sha1": "1dcee84c73234ab1a001d97565c63d8d53348421",
+      "size": 16847,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/RandomSource.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/util/RandomSource.class",
+      "sha1": "20234a2513b0dcc6a7f01b8367de3b74b8b8ada4",
+      "size": 2525
+    },
+    {
+      "destination": "assets/reference/RandomSource.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/util/RandomSource.class",
+      "sha1": "0bbc8b77bb4e0f039fa19cd147130d3af8261024",
+      "size": 6223,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/LegacyRandomSource.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/level/levelgen/LegacyRandomSource.class",
+      "sha1": "bde41081c20f565c5a5331565d10b4a88a751d77",
+      "size": 2212
+    },
+    {
+      "destination": "assets/reference/LegacyRandomSource.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/level/levelgen/LegacyRandomSource.class",
+      "sha1": "5d0b111e7e97fb70dddea385b955cdd7663327c6",
+      "size": 5317,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/SingleThreadedRandomSource.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/level/levelgen/SingleThreadedRandomSource.class",
+      "sha1": "4b4e0d4ea41a0e585f71dfb874226a6daa3d66b2",
+      "size": 1967
+    },
+    {
+      "destination": "assets/reference/SingleThreadedRandomSource.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/level/levelgen/SingleThreadedRandomSource.class",
+      "sha1": "f8cac0bf6d52ec2d3086e001a888dafa00bdb3d3",
+      "size": 4366,
+      "conversion": "Resolved constant pool and raw method bytecode (reference only)"
+    },
+    {
+      "destination": "assets/reference/fire_charge.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/models/item/fire_charge.json",
+      "sha1": "9300de0550d8bb1ecc8d3088305920c0dfc863c2",
+      "size": 106
+    },
+    {
+      "destination": "assets/reference/sound_events.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\79\\7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "sha1": "2f2f94767c2448e66406909cb4705c9cddc48042",
+      "size": 1024,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds.json",
+      "source_sha1": "7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "conversion": "Only the six relevant sound events extracted from sounds.json"
+    },
+    {
+      "destination": "assets/sounds/charge.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\30\\3066a05ff74bb537d38e2172c257f28f1b3f6e53",
+      "sha1": "3066a05ff74bb537d38e2172c257f28f1b3f6e53",
+      "size": 14239,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/charge.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/death.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\3d\\3d7d2c5a95f0829dbec7f2fefbf16660e38ceec6",
+      "sha1": "3d7d2c5a95f0829dbec7f2fefbf16660e38ceec6",
+      "size": 28613,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/death.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/fireball4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\e2\\e2aae5ec9916c6c4ae328520f4d72a50afff5aed",
+      "sha1": "e2aae5ec9916c6c4ae328520f4d72a50afff5aed",
+      "size": 9969,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/fireball4.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\52\\5271efaf10e123ce7d03a574ebb8a593c7e8c826",
+      "sha1": "5271efaf10e123ce7d03a574ebb8a593c7e8c826",
+      "size": 8656,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan1.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\0e\\0e208ff8b70b022978b4ea57cfa2ac6672680112",
+      "sha1": "0e208ff8b70b022978b4ea57cfa2ac6672680112",
+      "size": 9659,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan2.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\5e\\5eeb380f700bf402638e09482ff55ae926bde71e",
+      "sha1": "5eeb380f700bf402638e09482ff55ae926bde71e",
+      "size": 10983,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan3.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\8e\\8edd840599bbd1e35f7fa3857d8a9f7d43e697d6",
+      "sha1": "8edd840599bbd1e35f7fa3857d8a9f7d43e697d6",
+      "size": 10226,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan4.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan5.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\08\\083557d2eb1a78315ca5f18c384ab3ee693e53ed",
+      "sha1": "083557d2eb1a78315ca5f18c384ab3ee693e53ed",
+      "size": 14665,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan5.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan6.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\16\\161d5566c38f3cec70a776995bdf58a52852aa79",
+      "sha1": "161d5566c38f3cec70a776995bdf58a52852aa79",
+      "size": 19269,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan6.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/moan7.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\aa\\aad0209b6d3f6ca32cf80aae78d11bffef3d974e",
+      "sha1": "aad0209b6d3f6ca32cf80aae78d11bffef3d974e",
+      "size": 10537,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/moan7.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/scream1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\b8\\b846fade34b2a51499e24134c5c0536bb8c4d49b",
+      "sha1": "b846fade34b2a51499e24134c5c0536bb8c4d49b",
+      "size": 12919,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/scream1.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/scream2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\8d\\8d8d8ed31959f603aae9d3d79356d208abeeecf7",
+      "sha1": "8d8d8ed31959f603aae9d3d79356d208abeeecf7",
+      "size": 15553,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/scream2.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/scream3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\d7\\d7e153c51e1e5cd4838a7bd694e4b42edeab340f",
+      "sha1": "d7e153c51e1e5cd4838a7bd694e4b42edeab340f",
+      "size": 11042,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/scream3.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/scream4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\d9\\d955376c8e19a267b1449fc369b87b25dede4fcf",
+      "sha1": "d955376c8e19a267b1449fc369b87b25dede4fcf",
+      "size": 15975,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/scream4.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    },
+    {
+      "destination": "assets/sounds/scream5.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\68\\6853ff1b496995fd4acf8b0bb60bb28b4f9dabac",
+      "sha1": "6853ff1b496995fd4acf8b0bb60bb28b4f9dabac",
+      "size": 13216,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/ghast/scream5.ogg",
+      "conversion": "None: original OGG Vorbis is supported by NUI"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "constants": {
+    "1": "java/lang/Object <init> ()V",
+    "2": "java/lang/Object",
+    "3": "<init> ()V",
+    "4": "java/lang/Object",
+    "5": "<init>",
+    "6": "()V",
+    "7": "com/google/common/collect/Lists newArrayList ()Ljava/util/ArrayList;",
+    "8": "com/google/common/collect/Lists",
+    "9": "newArrayList ()Ljava/util/ArrayList;",
+    "10": "com/google/common/collect/Lists",
+    "11": "newArrayList",
+    "12": "()Ljava/util/ArrayList;",
+    "13": "net/minecraft/client/model/geom/builders/CubeListBuilder cubes Ljava/util/List;",
+    "14": "net/minecraft/client/model/geom/builders/CubeListBuilder",
+    "15": "cubes Ljava/util/List;",
+    "16": "net/minecraft/client/model/geom/builders/CubeListBuilder",
+    "17": "cubes",
+    "18": "Ljava/util/List;",
+    "19": "net/minecraft/client/model/geom/builders/CubeListBuilder xTexOffs I",
+    "20": "xTexOffs I",
+    "21": "xTexOffs",
+    "22": "I",
+    "23": "net/minecraft/client/model/geom/builders/CubeListBuilder yTexOffs I",
+    "24": "yTexOffs I",
+    "25": "yTexOffs",
+    "26": "net/minecraft/client/model/geom/builders/CubeListBuilder mirror (Z)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "27": "mirror (Z)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "28": "mirror",
+    "29": "(Z)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "30": "net/minecraft/client/model/geom/builders/CubeListBuilder mirror Z",
+    "31": "mirror Z",
+    "32": "Z",
+    "33": "net/minecraft/client/model/geom/builders/CubeListBuilder texOffs (II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "34": "texOffs (II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "35": "texOffs",
+    "36": "(II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "37": "net/minecraft/client/model/geom/builders/CubeDefinition",
+    "38": "net/minecraft/client/model/geom/builders/CubeDefinition",
+    "39": "net/minecraft/client/model/geom/builders/CubeListBuilder ALL_VISIBLE Ljava/util/Set;",
+    "40": "ALL_VISIBLE Ljava/util/Set;",
+    "41": "ALL_VISIBLE",
+    "42": "Ljava/util/Set;",
+    "43": "net/minecraft/client/model/geom/builders/CubeDefinition <init> (Ljava/lang/String;FFFFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;ZFFLjava/util/Set;)V",
+    "44": "<init> (Ljava/lang/String;FFFFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;ZFFLjava/util/Set;)V",
+    "45": "(Ljava/lang/String;FFFFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;ZFFLjava/util/Set;)V",
+    "46": "java/util/List add (Ljava/lang/Object;)Z",
+    "47": "java/util/List",
+    "48": "add (Ljava/lang/Object;)Z",
+    "49": "java/util/List",
+    "50": "add",
+    "51": "(Ljava/lang/Object;)Z",
+    "52": "net/minecraft/client/model/geom/builders/CubeDeformation NONE Lnet/minecraft/client/model/geom/builders/CubeDeformation;",
+    "53": "net/minecraft/client/model/geom/builders/CubeDeformation",
+    "54": "NONE Lnet/minecraft/client/model/geom/builders/CubeDeformation;",
+    "55": "net/minecraft/client/model/geom/builders/CubeDeformation",
+    "56": "NONE",
+    "57": "Lnet/minecraft/client/model/geom/builders/CubeDeformation;",
+    "58": "com/google/common/collect/ImmutableList copyOf (Ljava/util/Collection;)Lcom/google/common/collect/ImmutableList;",
+    "59": "com/google/common/collect/ImmutableList",
+    "60": "copyOf (Ljava/util/Collection;)Lcom/google/common/collect/ImmutableList;",
+    "61": "com/google/common/collect/ImmutableList",
+    "62": "copyOf",
+    "63": "(Ljava/util/Collection;)Lcom/google/common/collect/ImmutableList;",
+    "64": "net/minecraft/client/model/geom/builders/CubeListBuilder <init> ()V",
+    "65": "net/minecraft/core/Direction",
+    "66": "net/minecraft/core/Direction",
+    "67": "java/util/EnumSet allOf (Ljava/lang/Class;)Ljava/util/EnumSet;",
+    "68": "java/util/EnumSet",
+    "69": "allOf (Ljava/lang/Class;)Ljava/util/EnumSet;",
+    "70": "java/util/EnumSet",
+    "71": "allOf",
+    "72": "(Ljava/lang/Class;)Ljava/util/EnumSet;",
+    "73": "Signature",
+    "74": "Ljava/util/Set<Lnet/minecraft/core/Direction;>;",
+    "75": "Ljava/util/List<Lnet/minecraft/client/model/geom/builders/CubeDefinition;>;",
+    "76": "Code",
+    "77": "LineNumberTable",
+    "78": "LocalVariableTable",
+    "79": "this",
+    "80": "Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "81": "MethodParameters",
+    "82": "()Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "83": "addBox",
+    "84": "(Ljava/lang/String;FFFIIILnet/minecraft/client/model/geom/builders/CubeDeformation;II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "85": "id",
+    "86": "Ljava/lang/String;",
+    "87": "x0",
+    "88": "F",
+    "89": "y0",
+    "90": "z0",
+    "91": "w",
+    "92": "h",
+    "93": "d",
+    "94": "g",
+    "95": "(Ljava/lang/String;FFFIIIII)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "96": "(FFFFFF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "97": "(FFFFFFLjava/util/Set;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "98": "visibleSides",
+    "99": "LocalVariableTypeTable",
+    "100": "(FFFFFFLjava/util/Set<Lnet/minecraft/core/Direction;>;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "101": "(Ljava/lang/String;FFFFFF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "102": "(Ljava/lang/String;FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "103": "(FFFFFFZ)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "104": "(FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;FF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "105": "xTexScale",
+    "106": "yTexScale",
+    "107": "(FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+    "108": "getCubes",
+    "109": "()Ljava/util/List;",
+    "110": "()Ljava/util/List<Lnet/minecraft/client/model/geom/builders/CubeDefinition;>;",
+    "111": "create",
+    "112": "<clinit>",
+    "113": "SourceFile",
+    "114": "CubeListBuilder.java"
+  },
+  "methods": [
+    {
+      "name": "<init>",
+      "descriptor": "()V",
+      "bytecode_hex": "2a b7 00 01 2a b8 00 07 b5 00 0d b1"
+    },
+    {
+      "name": "texOffs",
+      "descriptor": "(II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a 1b b5 00 13 2a 1c b5 00 17 2a b0"
+    },
+    {
+      "name": "mirror",
+      "descriptor": "()Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a 04 b6 00 1a b0"
+    },
+    {
+      "name": "mirror",
+      "descriptor": "(Z)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a 1b b5 00 1e 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(Ljava/lang/String;FFFIIILnet/minecraft/client/model/geom/builders/CubeDeformation;II)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a 15 09 15 0a b6 00 21 57 2a b4 00 0d bb 00 25 59 2b 2a b4 00 13 86 2a b4 00 17 86 24 25 17 04 15 05 86 15 06 86 15 07 86 19 08 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(Ljava/lang/String;FFFIIIII)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a 15 08 15 09 b6 00 21 57 2a b4 00 0d bb 00 25 59 2b 2a b4 00 13 86 2a b4 00 17 86 24 25 17 04 15 05 86 15 06 86 15 07 86 b2 00 34 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(FFFFFF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 01 2a b4 00 13 86 2a b4 00 17 86 23 24 25 17 04 17 05 17 06 b2 00 34 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(FFFFFFLjava/util/Set;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 01 2a b4 00 13 86 2a b4 00 17 86 23 24 25 17 04 17 05 17 06 b2 00 34 2a b4 00 1e 0c 0c 19 07 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(Ljava/lang/String;FFFFFF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 2b 2a b4 00 13 86 2a b4 00 17 86 24 25 17 04 17 05 17 06 17 07 b2 00 34 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(Ljava/lang/String;FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 2b 2a b4 00 13 86 2a b4 00 17 86 24 25 17 04 17 05 17 06 17 07 19 08 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(FFFFFFZ)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 01 2a b4 00 13 86 2a b4 00 17 86 23 24 25 17 04 17 05 17 06 b2 00 34 15 07 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;FF)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 01 2a b4 00 13 86 2a b4 00 17 86 23 24 25 17 04 17 05 17 06 19 07 2a b4 00 1e 17 08 17 09 b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "addBox",
+      "descriptor": "(FFFFFFLnet/minecraft/client/model/geom/builders/CubeDeformation;)Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "2a b4 00 0d bb 00 25 59 01 2a b4 00 13 86 2a b4 00 17 86 23 24 25 17 04 17 05 17 06 19 07 2a b4 00 1e 0c 0c b2 00 27 b7 00 2b b9 00 2e 02 00 57 2a b0"
+    },
+    {
+      "name": "getCubes",
+      "descriptor": "()Ljava/util/List;",
+      "bytecode_hex": "2a b4 00 0d b8 00 3a b0"
+    },
+    {
+      "name": "create",
+      "descriptor": "()Lnet/minecraft/client/model/geom/builders/CubeListBuilder;",
+      "bytecode_hex": "bb 00 0e 59 b7 00 40 b0"
+    },
+    {
+      "name": "<clinit>",
+      "descriptor": "()V",
+      "bytecode_hex": "12 41 b8 00 43 b3 00 27 b1"
+    }
+  ]
+}

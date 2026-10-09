@@ -1,0 +1,48 @@
+{
+  "entity.ghast.ambient": {
+    "sounds": [
+      "mob/ghast/moan1",
+      "mob/ghast/moan2",
+      "mob/ghast/moan3",
+      "mob/ghast/moan4",
+      "mob/ghast/moan5",
+      "mob/ghast/moan6",
+      "mob/ghast/moan7"
+    ],
+    "subtitle": "subtitles.entity.ghast.ambient"
+  },
+  "entity.ghast.death": {
+    "sounds": [
+      "mob/ghast/death"
+    ],
+    "subtitle": "subtitles.entity.ghast.death"
+  },
+  "entity.ghast.hurt": {
+    "sounds": [
+      "mob/ghast/scream1",
+      "mob/ghast/scream2",
+      "mob/ghast/scream3",
+      "mob/ghast/scream4",
+      "mob/ghast/scream5"
+    ],
+    "subtitle": "subtitles.entity.ghast.hurt"
+  },
+  "entity.ghast.shoot": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "subtitles.entity.ghast.shoot"
+  },
+  "entity.ghast.warn": {
+    "sounds": [
+      "mob/ghast/charge"
+    ],
+    "subtitle": "subtitles.entity.ghast.shoot"
+  },
+  "item.firecharge.use": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "subtitles.item.firecharge.use"
+  }
+}

@@ -1,0 +1,13 @@
+* text=auto
+*.lua text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.obj text eol=lf
+*.mtl text eol=lf
+*.png binary
+*.gif binary
+*.ogg binary
+*.class binary

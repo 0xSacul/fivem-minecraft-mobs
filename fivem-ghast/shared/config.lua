@@ -1,0 +1,49 @@
+Config = {
+    -- Standalone: no ESX, ox, sound-resource, or model-export dependencies.
+    AnchorModel = 'prop_poolball_1', -- invisible, non-colliding object; NEVER the visible Ghast
+    MaxGhasts = 6,
+    MaxGhastsPerPlayer = 1,
+    SpawnCooldownMs = 3000,
+    RequireAce = false, -- enable and grant ghast.spawn for a public server
+    SpawnForward = 20.0,
+    SpawnHeight = 15.0, -- body bottom, above ground
+    BodySize = 4.5, -- installed GhastModel: 16 model units scaled 4.5 / 16
+    Health = 100,
+    BulletDamage = 12,
+    MeleeDamage = 20,
+    DamageIntervalMs = 140,
+    ReflectedDamage = 100,
+    WanderRadius = 18.0,
+    WanderSpeed = 1.25,
+    BobAmplitude = 0.35,
+    BobFrequency = 0.8,
+    TurnSpeed = 55.0,
+    TargetRange = 64.0,
+    TargetScanMs = 500,
+    MaxLosCandidates = 8,
+    WarningDelayMs = 500,
+    ChargeMs = 500,
+    AttackCooldownMs = 2000,
+    AmbientMinMs = 7000,
+    AmbientMaxMs = 15000,
+    RenderDistance = 180.0,
+    SyncIntervalMs = 100,
+    SnapshotIntervalMs = 3000,
+    OwnerTimeoutMs = 15000,
+    Fireball = {
+        Speed = 32.0,
+        Radius = 0.50,
+        SpriteSize = 0.9,
+        LifetimeMs = 14000,
+        BlastRadius = 5.0,
+        Damage = 70,
+        ExplosionType = 4,
+        FireLifetimeMs = 6000,
+        Reflection = true,
+        ReflectDistance = 2.8,
+        ReflectCooldownMs = 500,
+        MaxActive = 12
+    },
+    Audio = { Distance = 90.0, Volume = 0.8, MaxVoices = 20 },
+    Debug = false
+}

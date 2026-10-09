@@ -1,0 +1,216 @@
+{
+  "minecraft_root": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft",
+  "version": "26.3",
+  "jar": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar",
+  "jar_sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+  "asset_index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+  "asset_index_sha1": "abfaa525f923f807df8b4e4d29c1b5e3a104adbe",
+  "assets": [
+    {
+      "destination": "assets/textures/creeper.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "97f4c6e40243dc37a44d269eeb3b8defc32e11ed",
+      "size": 2832
+    },
+    {
+      "destination": "assets/runtime/creeper.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "a95076e162c9c143f2e5af3897a830277e619cf1",
+      "size": 7959,
+      "conversion": "RGBA PNG; 16x nearest-neighbor upscale; creeper overlay variant"
+    },
+    {
+      "destination": "assets/runtime/creeper_flash50.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "b4ef171cf9463d5a452d24624c6598ec754d4539",
+      "size": 7697,
+      "conversion": "RGBA PNG; 16x nearest-neighbor upscale; creeper_flash50 overlay variant"
+    },
+    {
+      "destination": "assets/runtime/creeper_flash75.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "ca4e590b067fa18fdeb3183aaa7ebb6ed535aaab",
+      "size": 7322,
+      "conversion": "RGBA PNG; 16x nearest-neighbor upscale; creeper_flash75 overlay variant"
+    },
+    {
+      "destination": "assets/runtime/creeper_flash100.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "7a6818ae469cf8a6c937e58d8c5f5d050c2319e0",
+      "size": 3289,
+      "conversion": "RGBA PNG; 16x nearest-neighbor upscale; creeper_flash100 overlay variant"
+    },
+    {
+      "destination": "assets/runtime/creeper_hurt.png",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/assets/minecraft/textures/entity/creeper/creeper.png",
+      "sha1": "1b6ad2d0733bb999e3ce4c19776d75dddbcd5f93",
+      "size": 7735,
+      "conversion": "RGBA PNG; 16x nearest-neighbor upscale; creeper_hurt overlay variant"
+    },
+    {
+      "destination": "assets/reference/CreeperModel.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/creeper/CreeperModel.class",
+      "sha1": "de26a0ee03499b910e863a8ba4b1340a5d11e3e7",
+      "size": 3918
+    },
+    {
+      "destination": "assets/reference/CreeperModel.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/monster/creeper/CreeperModel.class",
+      "sha1": "09956ce476de40dcde0d04c1ac123bfb8a0dea26",
+      "size": 10864,
+      "conversion": "Resolved class constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/CreeperRenderer.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/CreeperRenderer.class",
+      "sha1": "0c7d0dc245d993401e12c0d9254aebf5994ec1ca",
+      "size": 5129
+    },
+    {
+      "destination": "assets/reference/CreeperRenderer.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/renderer/entity/CreeperRenderer.class",
+      "sha1": "61352ed2aa2bdac4476a6c6c5afdbb3b35ff5c0c",
+      "size": 13217,
+      "conversion": "Resolved class constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "462436804d40ffc0b238c1515edfebb013cf1980",
+      "size": 5007
+    },
+    {
+      "destination": "assets/reference/ModelPart$Cube.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/client/model/geom/ModelPart$Cube.class",
+      "sha1": "2026856a4d949d9b6d183a9e0274f6656f555a0f",
+      "size": 11481,
+      "conversion": "Resolved class constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/Creeper.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/monster/Creeper.class",
+      "sha1": "2130f5d0c95f411233394ff6689f89380c858eb2",
+      "size": 16013
+    },
+    {
+      "destination": "assets/reference/Creeper.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/monster/Creeper.class",
+      "sha1": "c1963923ff00140bd105b81231fdf36689f57561",
+      "size": 45435,
+      "conversion": "Resolved class constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/SwellGoal.class",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/ai/goal/SwellGoal.class",
+      "sha1": "ed6aabee3ba38c65348a610320a9d3fae493bf3e",
+      "size": 2278
+    },
+    {
+      "destination": "assets/reference/SwellGoal.bytecode.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\versions\\26.3\\26.3.jar!/net/minecraft/world/entity/ai/goal/SwellGoal.class",
+      "sha1": "a53fa5607c9db3156900cfe3176b28bfd1bda5d9",
+      "size": 5826,
+      "conversion": "Resolved class constant pool and raw method bytecode; reference only"
+    },
+    {
+      "destination": "assets/reference/sound_events.json",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\79\\7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "sha1": "b4ecfee70f4910b096d0b3b4b2fd65e22c4dfa20",
+      "size": 674,
+      "source_sha1": "7975165ad4a3c0cb3c05078b914eac0f2c3b5f5f",
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds.json",
+      "conversion": "Only Creeper and generic explosion events extracted"
+    },
+    {
+      "destination": "assets/sounds/death.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\bd\\bd090d4d049f06217d1436552525d96ea1fa53b0",
+      "sha1": "bd090d4d049f06217d1436552525d96ea1fa53b0",
+      "size": 13695,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/creeper/death.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/say1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\6f\\6fc976d65fc742451db2049a2a38a1007b976bc1",
+      "sha1": "6fc976d65fc742451db2049a2a38a1007b976bc1",
+      "size": 8031,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/creeper/say1.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/say2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\79\\79fdb366ce047a20297c73f85858ea7e29ec0898",
+      "sha1": "79fdb366ce047a20297c73f85858ea7e29ec0898",
+      "size": 8331,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/creeper/say2.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/say3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\8e\\8eaa122d6c96f2d5fef601926aa930cef0c5f81c",
+      "sha1": "8eaa122d6c96f2d5fef601926aa930cef0c5f81c",
+      "size": 7435,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/creeper/say3.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/say4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\ec\\ecbf5ce78cc21479c4b91273fd030ed68639d3f8",
+      "sha1": "ecbf5ce78cc21479c4b91273fd030ed68639d3f8",
+      "size": 8038,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/mob/creeper/say4.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/explode1.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\fa\\fa85b9e7e54c36c9f9d0249ca739444b5e3bb66c",
+      "sha1": "fa85b9e7e54c36c9f9d0249ca739444b5e3bb66c",
+      "size": 23161,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/random/explode1.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/explode2.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\e5\\e55daa373e577f611565d57ec53cd28dcf472f99",
+      "sha1": "e55daa373e577f611565d57ec53cd28dcf472f99",
+      "size": 28696,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/random/explode2.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/explode3.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\3a\\3a92d0fd263265719532041f6f2ea44c7ba2f2e2",
+      "sha1": "3a92d0fd263265719532041f6f2ea44c7ba2f2e2",
+      "size": 28255,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/random/explode3.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/explode4.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\09\\09835e0c3138faf6047506a2b6f1da087c082d2e",
+      "sha1": "09835e0c3138faf6047506a2b6f1da087c082d2e",
+      "size": 27561,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/random/explode4.ogg",
+      "conversion": "None: original OGG Vorbis"
+    },
+    {
+      "destination": "assets/sounds/fuse.ogg",
+      "source": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\objects\\b9\\b9a550ba1e028c027557572aeb928b760864efe4",
+      "sha1": "b9a550ba1e028c027557572aeb928b760864efe4",
+      "size": 28874,
+      "index": "C:\\Users\\lucas\\AppData\\Roaming\\.minecraft\\assets\\indexes\\34.json",
+      "logical_path": "minecraft/sounds/random/fuse.ogg",
+      "conversion": "None: original OGG Vorbis"
+    }
+  ]
+}

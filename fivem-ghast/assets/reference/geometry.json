@@ -1,0 +1,44 @@
+{
+  "source": "GhastModel.class and ModelPart$Cube.class from local Minecraft 26.3 client JAR",
+  "body_units": [
+    16,
+    16,
+    16
+  ],
+  "layer_texture_size": [
+    64,
+    32
+  ],
+  "actual_png_size": [
+    128,
+    64
+  ],
+  "scale": 0.28125,
+  "body_pivot_y": 17.6,
+  "tentacle_pivot_y": 24.6,
+  "tentacle_count": 9,
+  "tentacle_lengths": [
+    8,
+    13,
+    9,
+    11,
+    11,
+    10,
+    12,
+    9,
+    12
+  ],
+  "tentacle_size_xz": [
+    2,
+    2
+  ],
+  "random_seed": 1660,
+  "animation": "xRot = 0.2 * sin(ageInTicks * 0.3 + i) + 0.4",
+  "attack_ticks": {
+    "warn": 10,
+    "shoot": 20,
+    "reset": -40
+  },
+  "preview": "CPU reference render, not an in-game screenshot",
+  "obj": "Static reference mesh at age 0; not a FiveM drawable, no bones"
+}

@@ -1,0 +1,32 @@
+{
+  "entity.creeper.death": {
+    "sounds": [
+      "mob/creeper/death"
+    ],
+    "subtitle": "subtitles.entity.creeper.death"
+  },
+  "entity.creeper.hurt": {
+    "sounds": [
+      "mob/creeper/say1",
+      "mob/creeper/say2",
+      "mob/creeper/say3",
+      "mob/creeper/say4"
+    ],
+    "subtitle": "subtitles.entity.creeper.hurt"
+  },
+  "entity.creeper.primed": {
+    "sounds": [
+      "random/fuse"
+    ],
+    "subtitle": "subtitles.entity.creeper.primed"
+  },
+  "entity.generic.explode": {
+    "sounds": [
+      "random/explode1",
+      "random/explode2",
+      "random/explode3",
+      "random/explode4"
+    ],
+    "subtitle": "subtitles.entity.generic.explode"
+  }
+}

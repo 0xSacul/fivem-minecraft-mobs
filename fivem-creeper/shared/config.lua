@@ -1,0 +1,38 @@
+Config = {
+    AnchorModel = 'prop_poolball_1', -- hidden transform only; original Creeper cuboids are the visual
+    Scale = 1.0 / 16.0,
+    MaxCreepers = 8,
+    MaxPerPlayer = 2,
+    RequireAce = false, -- creeper.spawn
+    SpawnForward = 12.0,
+    SpawnCooldownMs = 1500,
+    Health = 100,
+    BulletDamage = 12,
+    MeleeDamage = 25,
+    DamageIntervalMs = 140,
+    WanderRadius = 12.0,
+    WanderSpeed = 0.65,
+    ChaseSpeed = 1.8,
+    RoamLimit = 90.0,
+    TurnSpeed = 150.0,
+    TargetRange = 32.0,
+    TargetNPCs = true,
+    TargetScanMs = 250,
+    MaxLosCandidates = 8,
+    PrimeDistance = 3.0,
+    CancelDistance = 7.0,
+    FuseMs = 1500, -- installed Creeper maxSwell=30, 20 ticks/sec
+    IntentTimeoutMs = 600,
+    StepMs = 50,
+    MaxStepHeight = 0.40,
+    MaxDrop = 1.0,
+    MinGroundNormalZ = 0.68,
+    CollisionRadius = 0.39,
+    RenderDistance = 150.0,
+    SyncIntervalMs = 100,
+    SnapshotIntervalMs = 3000,
+    OwnerTimeoutMs = 15000,
+    Explosion = { Radius = 6.0, Damage = 120, Type = 0, CameraShake = 0.3 },
+    Audio = { Distance = 70.0, Volume = 0.8, MaxVoices = 20 },
+    Debug = false
+}
